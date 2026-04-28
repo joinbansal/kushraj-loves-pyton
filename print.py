@@ -1,0 +1,6 @@
+print("i like roblox rivals a lot")
+print("i like rugby a lot")
+print("like my python teacher a lot")
+print("my favorite posision is the running back")
+print("i like math")
+print("i like to do english")
