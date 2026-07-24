@@ -1,8 +1,13 @@
-n = int(input("Enter the value of terms: "))
-sum = 0
-i = 1
-while i<=n:
+num = 3
 
- sum = sum+i
- i = i+1
-print("\nSum =", sum)
+while num <= 48:
+    print(num)
+    num += 3
+
+
+num = int(input("Enter a number:"))
+i = 1
+
+while i <= 20:
+    print(num, "x", i, "=", num * i)
+    i += 1
